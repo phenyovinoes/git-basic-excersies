@@ -1,0 +1,190 @@
+    1  pip install pandas
+    2  pwd
+    3  ls
+    4  ls -a
+    5  ls
+    6  cd ~
+    7  ls
+    8  cd documents
+    9  mkdir git-basic-excerises
+   10  cd git-basic-excerises
+   11  ls
+   12  ls -a
+   13  git init
+   14  ls -a
+   15  git status
+   16  touch README.md
+   17  ls -a
+   18  git status
+   19  git log
+   20  git add
+   21  git add READme
+   22  git add README
+   23  git add README.md
+   24  git status
+   25  git rm --cached README.MD
+   26  git rm --cached README.md
+   27  git status
+   28  git add README.md
+   29  git commit -m 'initial commit'
+   30  git log
+   31  nano README.md
+   32  cat README.md
+   33  git status
+   34  git add README.md
+   35  git status
+   36  git commit  -m 'second commit'
+   37  git log
+   38  git status
+   39  touch foo.py 
+   40  nano foo.py
+   41  git status
+   42  git add
+   43  git add all
+   44  cat foo.py
+   45  git add foo.py
+   46  git status
+   47  git commit -m 'initial commit'
+   48  ls
+   49  clear
+   50  cd ~
+   51  ls
+   52  cd documents
+   53  git clone [200~https://github.com/Umuzi-org/Phenyo-Mopako-266-string-calculator-python~
+   54  git clone 200~https://github.com/Umuzi-org/Phenyo-Mopako-266-string-calculator-python~
+   55  git clone 200~https://github.com/Umuzi-org/Phenyo-Mopako-266-string-calculator-python
+   56  git clone https://github.com/Umuzi-org/Phenyo-Mopako-266-string-calculator-python
+   57  ls
+   58  cd ../
+   59  git clone https://github.com/Umuzi-org/Phenyo-Mopako-266-string-calculator-python/tree/String_Calculator
+   60  git clone https://github.com/Umuzi-org/Phenyo-Mopako-266-string-calculator-python/tree/String_Calculator
+   61  git clone https://github.com/Umuzi-org/Phenyo-Mopako-266-string-calculator-python/tree/String_Calculator
+   62  cd documents
+   63  git clone https://github.com/Umuzi-org/Phenyo-Mopako-266-string-calculator-python/tree/String_Calculator
+   64  cd  Phenyo-Mopako-266-string-calculator-python
+   65  ls'
+   66  ls
+   67  ;
+   68  '
+   69  ls
+   70  ls -a
+   71  pwd
+   72  cd ~
+   73  cd onedrive
+   74  cd desktop
+   75  cd ../
+   76  cd desktop
+   77  cd documents
+   78  ls
+   79  cd "umuzi work"
+   80  ls -a
+   81  git clone https://github.com/Umuzi-org/Phenyo-Mopako-234-cross-validation-simple-linear-regression-python
+   82  ls 
+   83  cd ~
+   84  mkdir git-basic-exercises
+   85  ls
+   86  cd desktop
+   87  cd documents
+   88  ls ../
+   89  cd documents
+   90  cd ../
+   91  cd documents
+   92  mkdir git-basic-excercises
+   93  cd git-basic-excercises
+   94  ls -a
+   95  ls
+   96  git init
+   97  git status
+   98  touch README.md
+   99  ls
+  100  git status
+  101  git log
+  102  git add README.md
+  103  git status
+  104  git rm --cached README.md
+  105  git status
+  106  git log
+  107  git add 
+  108  git add ,
+  109  git add .
+  110  git status
+  111  git log
+  112  git commit -m "initial commit"
+  113  git log
+  114  git log
+  115  q
+  116  nano README.md
+  117  cat README.md
+  118  git status
+  119  git add README.md
+  120  git status
+  121  git commit "second commit"
+  122  git commit -m "second commit"
+  123  git log
+  124  nano README.md
+  125  git status
+  126  git add README.md
+  127  git status
+  128  git commit -m "Tird commit"
+  129  git log
+  130  q
+  131  git checkout fe5ce603acdde34822ccbbd8d434306bd287d862
+  132  cat README.md
+  133  git checkout 81897f2784c049795f679e15af17aacabc393f4c
+  134  cat README.md
+  135  git checkout main
+  136  git checkout master
+  137  cat README.md
+  138  git branch
+  139  git branch milkshake-flavours
+  140  git branch
+  141  git checkout milkshake-flavours
+  142  git branch
+  143  nano milkshakes.md
+  144  git status
+  145  git add .
+  146  git commit -m "added initial flavours"
+  147  git status
+  148  git log
+  149  git checkout master
+  150  git branch
+  151  ls
+  152  cat README.md
+  153  git checkout milkshake-flavours
+  154  ls
+  155  cate README.md
+  156  cat README.md
+  157  git checkout master
+  158  ls 
+  159  ls -a
+  160  ls 
+  161  git branch
+  162  git checkout milkshake-flavours
+  163  ls
+  164  git checkout master
+  165  git branch history
+  166  git branch
+  167  git log
+  168  git checkout 7a30816e543c290d5dc7ccabc210a62db69fa647
+  169  ls
+  170  cat README.md
+  171  git checkout 7a30816e543c290d5dc7ccabc210a62db69fa647
+  172  ls
+  173  cat README.md
+  174  git branch
+  175  git checkout history
+  176  ls
+  177  cat README.md
+  178  git log
+  179  git checkout 81897f2784c049795f679e15af17aacabc393f4c
+  180  ls
+  181  cat README.md
+  182  git log
+  183  git checkout fe5ce603acdde34822ccbbd8d434306bd287d862
+  184  ls
+  185  cat READEME.md
+  186  cat README.md
+  187  git checkou history
+  188  git checkout history
+  189  git branch
+  190  history>history.txt
